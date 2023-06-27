@@ -1,4 +1,5 @@
 # Spring Boot Microservices Architecture
+![](https://github.com/arizkyrahman/springboot-microservices/blob/master/images/springboot_microservices_architecture.jpg)
 
 ## How to run the application using Docker
 
